@@ -1,0 +1,72 @@
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.exe
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csprojAssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.AssemblyInfoInputs.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.AssemblyInfo.cs
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csproj.CopyComplete
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.deps.json
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.runtimeconfig.json
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.runtimeconfig.dev.json
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.pdb
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\ApiAiSDK.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.pdb
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.genruntimeconfig.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursova\Telegrambot\bin\Debug\netcoreapp3.1\Settings.job
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.exe
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\Settings.job
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.deps.json
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.runtimeconfig.json
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.runtimeconfig.dev.json
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.pdb
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\ApiAiSDK.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csprojAssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.AssemblyInfoInputs.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.AssemblyInfo.cs
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csproj.CopyComplete
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.pdb
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\kursovaArtem\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.genruntimeconfig.cache
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.exe
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\Settings.job
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.deps.json
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.runtimeconfig.json
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.runtimeconfig.dev.json
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.dll
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.pdb
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\ApiAiSDK.dll
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.AssemblyInfo.cs
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csproj.CopyComplete
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.dll
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.pdb
+C:\Users\user\Desktop\Gusakov_Smetankin_Illia\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.genruntimeconfig.cache
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.exe
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\Settings.job
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.deps.json
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.runtimeconfig.json
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.runtimeconfig.dev.json
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.dll
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\Telegrambot.pdb
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\ApiAiSDK.dll
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\asmet\Desktop\Telegrambot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\asmet\Desktop\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csprojAssemblyReference.cache
+C:\Users\asmet\Desktop\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.AssemblyInfoInputs.cache
+C:\Users\asmet\Desktop\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.AssemblyInfo.cs
+C:\Users\asmet\Desktop\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csproj.CoreCompileInputs.cache
+C:\Users\asmet\Desktop\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.csproj.CopyComplete
+C:\Users\asmet\Desktop\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.dll
+C:\Users\asmet\Desktop\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.pdb
+C:\Users\asmet\Desktop\Telegrambot\obj\Debug\netcoreapp3.1\Telegrambot.genruntimeconfig.cache
